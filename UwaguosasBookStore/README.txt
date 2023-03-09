@@ -35,3 +35,7 @@ In the _LoginPartial.cshtml removed the "text dark" in line 9
 Ran the project and the theme was updated.
 @1510 Added addidtional stylesheet  and JS to the _Layout.cshtml page 
 @1525 Added a Dropdown menu in the navigation bar
+ran it but the drop down did not work
+@1540 then I replaced the id with "navbarDropdownMenuList" and added "data-toggle="dropdown""
+also replaced the aria-labelledby with "navbarDropdownMenuList"
+@1555 Ran the app and the dropdown worked 
