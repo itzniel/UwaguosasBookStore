@@ -34,3 +34,4 @@ Replaced the @RenderSection("script, required:false") with @await RenderSectionA
 In the _LoginPartial.cshtml removed the "text dark" in line 9
 Ran the project and the theme was updated.
 @1510 Added addidtional stylesheet  and JS to the _Layout.cshtml page 
+@1525 Added a Dropdown menu in the navigation bar
