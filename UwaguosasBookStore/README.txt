@@ -18,4 +18,8 @@ review the route pattern in startup.cs
 
 2023-03-03
 1510 clone my repository UwaguosaBookStore in Github.. test it 
-1525
+1550
+Created the READ.md File and pulled it.
+
+2023-03-09
+@1520 Created a navigation for books in the shared views
