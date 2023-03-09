@@ -10,7 +10,6 @@ options=> options.SignIn.RequireConfirmedAccount = true
 Tested the App .. ran it and it was goosd... tested the link as well
 Action Items:
 -Modify the Navigation
-
 1516
 Modified the default welcome message
 review the route pattern in startup.cs
@@ -22,4 +21,14 @@ review the route pattern in startup.cs
 Created the READ.md File and pulled it.
 
 2023-03-09
+@1512 cloned my repository 
 @1520 Created a navigation for books in the shared views
+@1525 Selected the bootstrap theme from bootswatch and downloaded the bootstrap.css
+@1530 
+Replaced the existing bootstrap.css in the lib/bootstrap/dist/css with the downloaded bootstrap 
+Also replaced the site.css in the main css folder with the downloaded bootstrap.css
+Changed the file name from bootstrap.min.css to bootstrap.css in the shared _layout.cshtml head
+Changed the nav class from navbar-light to navbar dark and bg-white to bg-primary
+removed the text-dark in line 23, Added "text-white-50 bg-primary" to the footer class 
+Replaced the @RenderSection("script, required:false") with @await RenderSectionAsync("script, required:false") in line 48
+In the _LoginPartial.cshtml removed the "text dark" in line 9
