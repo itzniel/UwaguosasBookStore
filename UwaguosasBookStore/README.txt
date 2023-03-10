@@ -23,7 +23,7 @@ Created the READ.md File and pulled it.
 2023-03-09
 @1412 cloned my repository 
 @1420 Created a navigation for books in the shared views
-@1425 Selected the bootstrap theme from bootswatch and downloaded the bootstrap.css
+@1425 Selected the bootstrap theme(Morph) from bootswatch and downloaded the bootstrap.css
 @1430 
 Replaced the existing bootstrap.css in the lib/bootstrap/dist/css with the downloaded bootstrap 
 Also replaced the site.css in the main css folder with the downloaded bootstrap.css
@@ -42,3 +42,6 @@ also replaced the aria-labelledby with "navbarDropdownMenuList"
 
 2023-03-10
 @1427 Made three new projects (UwaguosasBooks.DataAccess, UwaguosasBooks.Model, UwaguosasBooks.Utility)
+@1522 Copied the Data folder and pasted it to UwaguosasBooks.DataAccess and deleted it from original app
+installed the Microsoft.EntityFrameworkCore.Relational and Core.SqlServer packages
+Deleted the Migration folder
