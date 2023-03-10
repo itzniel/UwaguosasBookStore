@@ -39,3 +39,6 @@ ran it but the drop down did not work
 @1540 then I replaced the id with "navbarDropdownMenuList" and added "data-toggle="dropdown""
 also replaced the aria-labelledby with "navbarDropdownMenuList"
 @1555 Ran the app and the dropdown worked 
+
+2023-03-10
+@1427 Made three new projects (UwaguosasBooks.DataAccess, UwaguosasBooks.Model, UwaguosasBooks.Utility)
